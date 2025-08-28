@@ -10,6 +10,8 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 ## Architecture and tools used
 
-** AWS Lambda **
-** AWS IAM **
-** Boto3 **
+1. AWS Lambda
+ 
+2. AWS IAM
+   
+3. Boto3
