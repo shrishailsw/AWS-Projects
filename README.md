@@ -8,9 +8,7 @@ Each project folder includes documentation, configuration files, and steps to re
 ---
 
 ## 📂 Repository Structure
-- `Project-1/` → First project details with code/configuration  
-- `Project-2/` → Second project setup and explanation  
-- `Project-3/` → More AWS use cases and experiments  
+- `Project-1/` → Cost Optimization  
 - `README.md` → Overview of all projects (this file)  
 
 ---
